@@ -15,15 +15,15 @@
 
 [보자마자 피트니스 콘텐츠 - 공식 사이트](https://bojamajafitness.com/article/%EB%B3%B4%EC%9E%90%EB%A7%88%EC%9E%90-%ED%94%BC%ED%8A%B8%EB%8B%88%EC%8A%A4-%EC%BD%98%ED%85%90%EC%B8%A0/8/13/)
 </p>
-<br><br>
+<br>
 <h2>작업 기간</h2>
 <h3>2021.08 ~ 2022.12(1년 5개월)</h3>
 
-<br><br>
+<br>
 <h2>기술 스택</h2>
 <h3>Unity3D, Unity Cinemachine(시네머신) 기능</h3>
 
-<br><br>
+<br>
 <h2>기여도</h2>
 <h3>2021.08 ~ </h3>
 <div>
@@ -71,18 +71,23 @@
 
 <h3>[스토리 나레이션 구현 하기]</h3>
 
-+각 맵 마다 등장하는 메인 스토리 나레이션과 랜덤으로 등장하는 나레이션 시스템 구현
++ 각 맵 마다 등장하는 메인 스토리 나레이션과 랜덤으로 등장하는 나레이션 시스템 구현
 
-__2022.03~__
+<h3>2022.03~</h3>
 
 <img src="https://github.com/JISUSAMA/BojamajaPlay2_realmotion/assets/38304918/670867d6-91fc-4cdb-b7ce-976cc5daa30c" width="640" height="360">
   <img src="https://github.com/JISUSAMA/BojamajaPlay2_realmotion/assets/38304918/50c56b09-81e1-435f-a1e9-7f19785d9107" width="640" height="360">
 <br><br>
 
-  __2022.05~__
+  <h3>2022.05~</h3>
   <h3>[런 투 더 문 영문 버전 제작 작업]</h3>
   <img src="https://github.com/JISUSAMA/BojamajaPlay2_realmotion/assets/38304918/e4bf99e2-406f-48f8-9f05-3cb36e129c22">
 
+  [보자마자 피트니스 - 런 투더 문(영문ver) Google Store](https://play.google.com/store/apps/details?id=com.gateways.runtothemoon_en)
+
+<h2>유튜브 홍보 영상 링크</h2>
+
+  [![Run to the moon 공식 홍보 영상](http://img.youtube.com/vi/6nW58Vrx-vE/0.jpg)](https://www.youtube.com/watch?v=6nW58Vrx-vE)
   
 </div>
 </div>
