@@ -81,7 +81,7 @@ __2022.03~__
 
   __2022.05~__
   <h3>[런 투 더 문 영문 버전 제작 작업]</h3>
-  
+  <img src="https://github.com/JISUSAMA/BojamajaPlay2_realmotion/assets/38304918/e4bf99e2-406f-48f8-9f05-3cb36e129c22">
 
   
 </div>
