@@ -1,6 +1,4 @@
 <div align='center'>
-  
-# 보자마자 피트니스 - 런 투 더 문(Run to the Moon) 포트폴리오
 
 <img src="https://github.com/JISUSAMA/BojamajaPlay2_realmotion/assets/38304918/4388d297-adf6-4bac-884e-a1bcced8f251">
 <h2>프로젝트 소개</h2>
@@ -13,29 +11,49 @@
  <br>
 앱과 센서를 블루투스로 연결한뒤 달까지 걸어가는 컨셉의 홈 피트니스 게임
 
+<img src="https://github.com/JISUSAMA/UnityStudy/assets/38304918/9a3fef1f-941c-46a3-ba23-500da2c3a140" width="100%" height="100%">
+
+<details>
+<p align="center">
+<summary> [보자마자 피트니스 - 런 투 더 문(Run to the Moon) 브로슈어]</summary>
+<img src="https://github.com/JISUSAMA/UnityStudy/assets/38304918/3970a4ac-0036-4b12-b584-26554032f1aa"  >
+<img src="https://github.com/JISUSAMA/UnityStudy/assets/38304918/af45319b-e99e-41dc-a1d0-74639160dbb7" >
+<img src="https://github.com/JISUSAMA/UnityStudy/assets/38304918/f9d954be-6c5e-4983-a506-4db62a947a4e" >
+<img src="https://github.com/JISUSAMA/UnityStudy/assets/38304918/b7c354ab-b79b-4b66-8238-bd0931d3f480" >
+</p>
+</details>
+
+<br>
+
 [보자마자 피트니스 콘텐츠 - 공식 사이트](https://bojamajafitness.com/article/%EB%B3%B4%EC%9E%90%EB%A7%88%EC%9E%90-%ED%94%BC%ED%8A%B8%EB%8B%88%EC%8A%A4-%EC%BD%98%ED%85%90%EC%B8%A0/8/13/)
 </p>
 <br>
-<h2>작업 기간</h2>
-<h3>2021.08 ~ 2022.12(1년 5개월)</h3>
+
+## 작업 기간
+### 2021.08 ~ 2022.12(1년 5개월)</h3>
 
 <br>
-<h2>기술 스택</h2>
-<h3>Unity3D, Unity Cinemachine(시네머신) 기능</h3>
+
+## 기술 스택
+### Unity3D, Unity Cinemachine(시네머신) 기능
 
 <br>
-<h2>기여도</h2>
-<h3>2021.08 ~ </h3>
-<div>
-<h3>[컨텐츠 UI 디자인 적용]</h3>
-  
+
+## 기여도
+### 2021.08 ~ 
+### [컨텐츠 UI 디자인 적용] 
+
 <img src="https://github.com/JISUSAMA/BojamajaPlay2_realmotion/assets/38304918/4fd2dd03-02ae-413b-b649-6b12b678341d" width="640" height="360">
   <img src="https://github.com/JISUSAMA/BojamajaPlay2_realmotion/assets/38304918/32bfd652-0369-4deb-9e96-9609fca229bb" width="640" height="360">
   <img src="https://github.com/JISUSAMA/BojamajaPlay2_realmotion/assets/38304918/f5a62d50-8df7-4ee0-a355-165e1b257cae" width="640" height="360">
-</div>
 
-<div>
-<h3>[게임 컨텐츠 맵 20 종 구현 및 개발] </h3>
+
+
+
+### [게임 컨텐츠 맵 20 종 구현 및 개발]
+
+<img src="https://github.com/JISUSAMA/UnityStudy/assets/38304918/8c7b52d8-06ce-4c07-92f4-65147a544bc8">
+<br><br>
 
 01.여정의 시작 0 ~ 50 km<br>
 02.목적없는 발걸음 50 ~ 100 km<br>
@@ -59,37 +77,36 @@
 20.달의 신전 950 ~ 1000 km <br>
 21.명예의 전당<br>
 
-</div>
 
-<div>
-<h3>[맵 안에 존재하는 이벤트 시스템 구현]</h3>
+### [맵 안에 존재하는 이벤트 시스템 구현]
   
 + 재미요소 획득 시 이벤트 발생
 + 튜토리얼 발생시 한번만 제공 되도록 제작
 + 아이템 구매는 우주 정거장에서만 구매 가능 하도록 제작
 + 맵에 따라서 다양한 미션과 스토리 진행 할 수 있도록 제작
 
-<h3>[스토리 나레이션 구현 하기]</h3>
+### [스토리 나레이션 구현 하기]
 
 + 각 맵 마다 등장하는 메인 스토리 나레이션과 랜덤으로 등장하는 나레이션 시스템 구현
 
-<h3>2022.03~</h3>
+### 2022.03~
 
 <img src="https://github.com/JISUSAMA/BojamajaPlay2_realmotion/assets/38304918/670867d6-91fc-4cdb-b7ce-976cc5daa30c" width="640" height="360">
   <img src="https://github.com/JISUSAMA/BojamajaPlay2_realmotion/assets/38304918/50c56b09-81e1-435f-a1e9-7f19785d9107" width="640" height="360">
 <br><br>
 
-  <h3>2022.05~</h3>
-  <h3>[런 투 더 문 영문 버전 제작 작업]</h3>
+### 2022.05~
+### [런 투 더 문 영문 버전 제작 작업]
+
   <img src="https://github.com/JISUSAMA/BojamajaPlay2_realmotion/assets/38304918/e4bf99e2-406f-48f8-9f05-3cb36e129c22">
 
   [보자마자 피트니스 - 런 투더 문(영문ver) Google Store](https://play.google.com/store/apps/details?id=com.gateways.runtothemoon_en)
 
-<h2>유튜브 홍보 영상 링크</h2>
+## 유튜브 홍보 영상 링크
 
   [![Run to the moon 공식 홍보 영상](http://img.youtube.com/vi/6nW58Vrx-vE/0.jpg)](https://www.youtube.com/watch?v=6nW58Vrx-vE)
   
-</div>
+
 </div>
 
 
