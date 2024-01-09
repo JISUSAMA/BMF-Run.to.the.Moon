@@ -1,6 +1,6 @@
 <div align='center'>
 
-<img src="https://github.com/JISUSAMA/BojamajaPlay2_realmotion/assets/38304918/4388d297-adf6-4bac-884e-a1bcced8f251">
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/77faf970-175c-4c4d-baed-6058399383a8">
 <h2>프로젝트 소개</h2>
 <h3>보자마자 피트니스 -런 투 더 문(Run to the Moon)</h3>
 <p>
@@ -11,15 +11,16 @@
  <br>
 앱과 센서를 블루투스로 연결한뒤 달까지 걸어가는 컨셉의 홈 피트니스 게임
 
-<img src="https://github.com/JISUSAMA/UnityStudy/assets/38304918/9a3fef1f-941c-46a3-ba23-500da2c3a140" width="100%" height="100%">
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/e41e4c4e-2248-44ea-a75a-0aa90d4f3e28" width="100%" height="100%">
 
 <details>
 <p align="center">
 <summary> [보자마자 피트니스 - 런 투 더 문(Run to the Moon) 브로슈어]</summary>
-<img src="https://github.com/JISUSAMA/UnityStudy/assets/38304918/3970a4ac-0036-4b12-b584-26554032f1aa"  >
-<img src="https://github.com/JISUSAMA/UnityStudy/assets/38304918/af45319b-e99e-41dc-a1d0-74639160dbb7" >
-<img src="https://github.com/JISUSAMA/UnityStudy/assets/38304918/f9d954be-6c5e-4983-a506-4db62a947a4e" >
-<img src="https://github.com/JISUSAMA/UnityStudy/assets/38304918/b7c354ab-b79b-4b66-8238-bd0931d3f480" >
+
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/eed90aa4-c8c2-43fd-a453-1374a6638bfe" >
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/5f26b618-d591-4aa7-b94c-ed3af235ebd2" >
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/2b9c0d36-9c3c-47c1-a0dc-e52146acf74c" >
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/fcb31e89-8098-48a8-ba50-e9e1468315c9"  >
 </p>
 </details>
 
@@ -43,16 +44,16 @@
 ### 2021.08 ~ 
 ### [컨텐츠 UI 디자인 적용] 
 
-<img src="https://github.com/JISUSAMA/BojamajaPlay2_realmotion/assets/38304918/4fd2dd03-02ae-413b-b649-6b12b678341d" width="640" height="360">
-  <img src="https://github.com/JISUSAMA/BojamajaPlay2_realmotion/assets/38304918/32bfd652-0369-4deb-9e96-9609fca229bb" width="640" height="360">
-  <img src="https://github.com/JISUSAMA/BojamajaPlay2_realmotion/assets/38304918/f5a62d50-8df7-4ee0-a355-165e1b257cae" width="640" height="360">
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/d7f8e7f3-cd81-42b7-b0bb-fbabfb022a69" width="640" height="360">
+  <img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/47903257-17ed-483c-bb57-fb0a336fc1df" width="640" height="360">
+  <img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/a7c3fec3-7cba-41ca-b018-4f49f8bf18f0" width="640" height="360">
 
 
 
 
 ### [게임 컨텐츠 맵 20 종 구현 및 개발]
 
-<img src="https://github.com/JISUSAMA/UnityStudy/assets/38304918/8c7b52d8-06ce-4c07-92f4-65147a544bc8">
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/a2246b56-129b-4de2-9850-9ece14b8bf6c">
 <br><br>
 
 01.여정의 시작 0 ~ 50 km<br>
@@ -80,7 +81,7 @@
 
 ### [맵 안에 존재하는 이벤트 시스템 구현]
   
-<img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/0f6f93f4-ac78-41ed-8331-f80b504843ba">
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/676159b2-bb26-44a1-89cc-da419694538b">
 
 + 재미요소 획득 시 이벤트 발생
 + 튜토리얼 발생시 한번만 제공 되도록 제작
@@ -90,20 +91,21 @@
 
 ### [스토리 나레이션 구현 하기]
 
-<img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/1c48e713-6829-45f3-a04e-e14f27af01b7">
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/443e51a8-af31-4205-ac7f-4871f87d525d">
 
 + 각 맵 마다 등장하는 메인 스토리 나레이션과 랜덤으로 등장하는 나레이션 시스템 구현
 
 ### 2022.03~
 
-<img src="https://github.com/JISUSAMA/BojamajaPlay2_realmotion/assets/38304918/670867d6-91fc-4cdb-b7ce-976cc5daa30c">
-  <img src="https://github.com/JISUSAMA/BojamajaPlay2_realmotion/assets/38304918/50c56b09-81e1-435f-a1e9-7f19785d9107">
+  <img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/43ca30ad-d4a1-455d-8d74-38399b7826da">
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/0de1baed-53a4-4f3f-94f9-804790ffffb7">
+
 <br><br>
 
 ### 2022.05~
 ### [런 투 더 문 영문 버전 제작 작업]
 
-  <img src="https://github.com/JISUSAMA/BojamajaPlay2_realmotion/assets/38304918/e4bf99e2-406f-48f8-9f05-3cb36e129c22">
+  <img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/cf6cbda5-a957-4c16-82e9-b84bd3683310">
 
   [보자마자 피트니스 - 런 투더 문(영문ver) Google Store](https://play.google.com/store/apps/details?id=com.gateways.runtothemoon_en)
 
