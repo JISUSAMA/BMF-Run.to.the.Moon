@@ -80,19 +80,24 @@
 
 ### [맵 안에 존재하는 이벤트 시스템 구현]
   
+<img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/0f6f93f4-ac78-41ed-8331-f80b504843ba">
+
 + 재미요소 획득 시 이벤트 발생
 + 튜토리얼 발생시 한번만 제공 되도록 제작
+
 + 아이템 구매는 우주 정거장에서만 구매 가능 하도록 제작
 + 맵에 따라서 다양한 미션과 스토리 진행 할 수 있도록 제작
 
 ### [스토리 나레이션 구현 하기]
 
+<img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/1c48e713-6829-45f3-a04e-e14f27af01b7">
+
 + 각 맵 마다 등장하는 메인 스토리 나레이션과 랜덤으로 등장하는 나레이션 시스템 구현
 
 ### 2022.03~
 
-<img src="https://github.com/JISUSAMA/BojamajaPlay2_realmotion/assets/38304918/670867d6-91fc-4cdb-b7ce-976cc5daa30c" width="640" height="360">
-  <img src="https://github.com/JISUSAMA/BojamajaPlay2_realmotion/assets/38304918/50c56b09-81e1-435f-a1e9-7f19785d9107" width="640" height="360">
+<img src="https://github.com/JISUSAMA/BojamajaPlay2_realmotion/assets/38304918/670867d6-91fc-4cdb-b7ce-976cc5daa30c">
+  <img src="https://github.com/JISUSAMA/BojamajaPlay2_realmotion/assets/38304918/50c56b09-81e1-435f-a1e9-7f19785d9107">
 <br><br>
 
 ### 2022.05~
